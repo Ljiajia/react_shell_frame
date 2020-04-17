@@ -1,7 +1,7 @@
 {
-  "name": "official_website",
-  "version": "2.5.8",
-  "target": "dawn",
+  "name": "react_shell_frame",
+  "version": "0.0.1",
+  "target": "dev",
   "description": "",
   "main": "index.js",
   "build":"2",
@@ -18,7 +18,7 @@
     "type": "git",
     "url": "http://39.105.167.245/fe/futuresharescloud/official_website.git"
   },
-  "author": "charles",
+  "author": "leijia",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.26.0",
